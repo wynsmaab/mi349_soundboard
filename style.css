@@ -20,6 +20,10 @@ body {
     background-color: #3e8e41;
   }
 
+  .btn-group button:active {
+    color: tomato;
+  }
+
   .buttons {
     line-height: 200px;
     height: 200px;
